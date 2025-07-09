@@ -1,3 +1,5 @@
+// Atividade feita por Migueis Costa e Miranda
+
 import { StyleSheet } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import AppNavigator from './src/navigation/AppNavigator'
